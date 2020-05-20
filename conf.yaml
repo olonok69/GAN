@@ -1,0 +1,7 @@
+log_dir: 'logs'
+output_dir: 'output'
+pics_dir: 'pics'
+models_dir : 'models'
+latent_dim : 100
+
+
