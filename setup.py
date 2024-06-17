@@ -19,7 +19,7 @@ setup(name='Gan Model',
           'Pillow>=8.1.1',
           'pydot==1.4.1',
           'pyyaml==5.4',
-          'scikit-learn==0.22.1',
+          'scikit-learn==1.5.0',
           'seaborn==0.10.0',
           'tensorflow==2.11.1',
           'paste==3.2.2'
