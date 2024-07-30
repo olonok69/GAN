@@ -21,7 +21,7 @@ setup(name='Gan Model',
           'pyyaml==5.4',
           'scikit-learn==0.22.1',
           'seaborn==0.10.0',
-          'tensorflow==2.11.1',
+          'tensorflow==2.12.1',
           'paste==3.2.2'
       ],
       python_requires='>=3.7',
