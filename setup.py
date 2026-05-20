@@ -10,7 +10,7 @@ setup(name='Gan Model',
       description='Gan model',
       install_requires=[
           'cherrypy==18.6.0',
-          'flask==2.3.2',
+          'flask==3.1.3',
           'graphviz==2.38',
           'keras==3.9.0',
           'matplotlib==3.1.3',
